@@ -1,3 +1,3 @@
-def current_age_for_birth_year(1)
+def current_age_for_birth_year(argument)
 
 end
